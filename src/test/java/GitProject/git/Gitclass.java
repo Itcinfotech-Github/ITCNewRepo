@@ -6,7 +6,7 @@ public class Gitclass {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("git class");
+		System.out.println("git class 1");
 	}
 
 }
